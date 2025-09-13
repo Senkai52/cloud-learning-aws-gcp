@@ -1,0 +1,52 @@
+[
+  {
+    "name": "type: epic",
+    "color": "5319e7",
+    "description": "High-level epic"
+  },
+  {
+    "name": "type: task",
+    "color": "1d76db",
+    "description": "Atomic task"
+  },
+  {
+    "name": "phase: aws",
+    "color": "ff9900",
+    "description": "AWS phase"
+  },
+  {
+    "name": "phase: gcp",
+    "color": "34a853",
+    "description": "GCP phase"
+  },
+  {
+    "name": "area: api",
+    "color": "0e8a16",
+    "description": "API/Backend work"
+  },
+  {
+    "name": "area: db",
+    "color": "c2e0c6",
+    "description": "Database work"
+  },
+  {
+    "name": "area: serverless",
+    "color": "fbca04",
+    "description": "Lambda/Cloud Run"
+  },
+  {
+    "name": "area: containers",
+    "color": "0052cc",
+    "description": "Docker/ECS/EKS/GKE"
+  },
+  {
+    "name": "area: ai",
+    "color": "6f42c1",
+    "description": "AI/Vertex/Bedrock"
+  },
+  {
+    "name": "good first issue",
+    "color": "7057ff",
+    "description": "Starter task"
+  }
+]

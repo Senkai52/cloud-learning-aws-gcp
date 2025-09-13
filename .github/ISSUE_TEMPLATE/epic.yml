@@ -1,0 +1,21 @@
+---
+name: Epic
+about: High-level goal (e.g., Week or Phase)
+title: "[EPIC] "
+labels: ["type: epic"]
+assignees: []
+---
+
+## Ziel
+Beschreibe das Ziel dieses Epics (Woche/Phase).
+
+## Akzeptanzkriterien
+- [ ] Kriterium 1
+- [ ] Kriterium 2
+
+## Teilaufgaben
+- [ ] Issue 1
+- [ ] Issue 2
+
+## Notizen / Links
+- ...
