@@ -1,16 +1,47 @@
-# Cloud Learning · AWS → GCP
+# ☁️ Cloud Learning Journey: AWS + GCP
 
-A structured, hands-on learning repo to master **AWS first (12 weeks)** and **GCP next (8 weeks)** — tailored for a Python backend developer (FastAPI/Flask, PostgreSQL, Docker, CI/CD, AI).
+Dieses Projekt begleitet meine Lernreise in **AWS** und **Google Cloud**.  
+Es kombiniert **praktische Übungen (Learning by Doing)**, **Ressourcen (LinkedIn Learning, YouTube, Docs)** und **Zertifikats-Vorbereitung**.
 
-## 🎯 Goals
-- Build & deploy production-grade **APIs** on AWS (Lambda/API Gateway, ECS Fargate) and GCP (Cloud Run).
-- Use managed **PostgreSQL** (AWS RDS / GCP Cloud SQL) and **Object Storage** (S3 / Cloud Storage).
-- Add **monitoring/logging** (CloudWatch / Cloud Logging) and basic **messaging** (SQS/SNS).
-- Set up **CI/CD** with GitHub Actions → AWS/GCP.
-- Optional certs: **AWS Certified Developer – Associate**, **Google Associate Cloud Engineer**.
+---
 
-## 🗺️ Roadmap
-- **Phase 1 (AWS · 12 weeks)**: Foundations → DB/API → Serverless → Containers → Monitoring → E2E project.
-- **Phase 2 (GCP · 8 weeks)**: Foundations → Cloud Run+SQL → Serverless → Vertex AI → E2E project.
+## 🚀 Ziele
+- AWS Developer Associate Zertifikat
+- GCP Associate Cloud Engineer Zertifikat
+- Hands-on Projekte mit FastAPI, Datenbanken, Serverless, Containern
 
-👉 Use the Kanban board (GitHub Projects) to track weekly tasks. Run `scripts/setup_github.sh` once after creating the repo on GitHub.
+---
+
+## 🗂️ Lernplan
+
+### 🔹 AWS
+- [Woche 1–2: Grundlagen (EC2, S3, RDS)](docs/AWS_Week1-2.md)
+- [Woche 3–6: APIs & Serverless](docs/AWS_Week3-6.md)
+- [Woche 7–8: Container & Deployment](docs/AWS_Week7-8.md)
+- [Woche 9–10: Monitoring & Messaging](docs/AWS_Week9-10.md)
+- [Woche 11–12: End-to-End & Zertifikat](docs/AWS_Week11-12.md)
+
+### 🔹 GCP
+- [Woche 1–2: Grundlagen (VM, Storage)](docs/GCP_Week1-2.md)
+- [Woche 3–4: Cloud SQL](docs/GCP_Week3-4.md)
+- [Woche 5–6: Cloud Run & Functions](docs/GCP_Week5-6.md)
+- [Woche 7–8: Vertex AI & End-to-End](docs/GCP_Week7-8.md)
+
+---
+
+## 📋 Kanban Board
+👉 [Cloud Learning Kanban Board](https://github.com/users/Senkai52/projects/5)
+
+---
+
+## 🧑‍💻 Nutzung
+- Jede Woche → Issue im Kanban öffnen
+- Übungen durchführen, Ergebnisse ins Issue posten
+- Lernfortschritt dokumentieren
+
+---
+
+## 📚 Ressourcen
+- LinkedIn Learning: *AWS für Einsteiger*, *Google Cloud Digital Leader*  
+- Udemy: *AWS Certified Developer Associate (Stephane Maarek)*  
+- AWS Skill Builder & GCP Qwiklabs für Zertifikate
